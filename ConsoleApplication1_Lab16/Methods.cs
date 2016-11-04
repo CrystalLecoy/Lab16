@@ -11,7 +11,7 @@ namespace ConsoleApplication1_Lab16
         public void isAPrime (long LengthOfPrimeNumbersMax)
         {
             List<long> PrimeNumbers = new List<long>();
-
+             
             int i = 0;
             do
             {
